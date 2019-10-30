@@ -1,0 +1,20 @@
+p {
+  color: red;
+}
+<p>Lorem ipsum</p>
+.thick {
+  font-weight: bold;
+}
+<span class="thick">I'm thick</span>
+.thick {
+    font-weight: bold;
+}
+ 
+.alert {
+    color: red;
+}
+<p class="thick alert">Warning...</p>
+#box {
+  background: blue;
+}
+<div id="box">I'm a box</div>
